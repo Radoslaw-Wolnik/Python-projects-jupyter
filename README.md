@@ -13,7 +13,7 @@ pd10 - decorators
 <b>pd11 - iterators</b>  
 pd12 - decorators pt2  
 <b>pd13 - hashing tables</b>  
-   
+pd14 - recap: horner etc, objects, decorators, iterators   
   
 pd21 -   
 pd22 -   
@@ -24,4 +24,4 @@ pd26 -
 pd27 -   
 pd28 -   
 pd29 -   
-pd30 - recap, sorting, data structures  
+pd30 - recap: sorting, data structures  
