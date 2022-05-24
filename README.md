@@ -15,5 +15,13 @@ pd12 - decorators pt2
 <b>pd13 - hashing tables</b>  
    
   
-pd21 -  
-pd22 -  
+pd21 -   
+pd22 -   
+pd23 -   
+pd24 -   
+pd25 -   
+pd26 -   
+pd27 -   
+pd28 -   
+pd29 -   
+pd30 - recap, sorting, data structures  
