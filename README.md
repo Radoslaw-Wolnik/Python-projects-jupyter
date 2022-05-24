@@ -7,9 +7,9 @@ pd03 - binary images
 pd05 -   
 pd06 -   
 pd07 -   
-pd08 -   
-pd09 -   
-pd10 -   
+pd08 - dziedziczenie  
+pd09 - dziedziczenie wielokrotne  
+pd10 - dekoratory  
 pd11 - iteratory  
 pd12 -   
 pd13 -   
