@@ -11,3 +11,9 @@ pd08 -
 pd09 -   
 pd10 -   
 pd11 - iteratory  
+pd12 -   
+pd13 -   
+pd14 -   
+  
+pd21 -  
+pd22 -  
