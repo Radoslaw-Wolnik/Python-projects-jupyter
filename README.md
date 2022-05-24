@@ -5,3 +5,9 @@ pd01 - game of life and some small stuff
 pd03 - binary images  
 <b>pd04 - implementation of sorting algorythms</b>  
 pd05 -   
+pd06 -   
+pd07 -   
+pd08 -   
+pd09 -   
+pd10 -   
+pd11 - iteratory  
