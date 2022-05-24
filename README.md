@@ -5,12 +5,12 @@ pd01 - game of life and some small stuff
 pd03 - binary images  
 <b>pd04 - implementation of sorting algorythms</b>  
 <b>pd05 - objects, baza plyt CD</b>  
-pd06 -   
+<b>pd06 - big objects, vector with operator overloading and small game </b>  
 pd07 - presenting person as object  
 pd08 - dziedziczenie  
 pd09 - dziedziczenie wielokrotne  
-pd10 - dekoratory  
-pd11 - iteratory  
+<b>pd10 - decorators</b>  
+<b>pd11 - iterators</b>  
 pd12 -   
 pd13 -   
 pd14 -   
