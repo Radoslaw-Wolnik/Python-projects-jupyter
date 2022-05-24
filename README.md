@@ -1,2 +1,2 @@
 # Python-projects-jupyter
-Python projects implemented using jupyter notebooks
+Academic Python projects implemented using jupyter notebooks
