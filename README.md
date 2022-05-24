@@ -9,9 +9,9 @@ pd03 - binary images
 pd07 - presenting person as object  
 pd08 - dziedziczenie  
 pd09 - dziedziczenie wielokrotne  
-<b>pd10 - decorators</b>  
+pd10 - decorators  
 <b>pd11 - iterators</b>  
-pd12 -   
+pd12 - decorators pt2  
 <b>pd13 - hashing tables</b>  
    
   
