@@ -4,7 +4,7 @@ pd01 - game of life and some small stuff
 <b>pd02 - galapagos - processing data</b>  
 pd03 - binary images  
 <b>pd04 - implementation of sorting algorythms</b>  
-pd05 -   
+pd05 - objects, baza plyt cd  
 pd06 -   
 pd07 -   
 pd08 - dziedziczenie  
