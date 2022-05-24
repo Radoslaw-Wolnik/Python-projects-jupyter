@@ -12,8 +12,8 @@ pd09 - dziedziczenie wielokrotne
 <b>pd10 - decorators</b>  
 <b>pd11 - iterators</b>  
 pd12 -   
-pd13 -   
-pd14 -   
+<b>pd13 - hashing tables</b>  
+   
   
 pd21 -  
 pd22 -  
